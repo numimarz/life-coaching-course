@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://numimarz.github.io/life-coaching-course/sitemap.xml
